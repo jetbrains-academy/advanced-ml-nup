@@ -2,6 +2,8 @@ type: marketplace
 title: "Advanced ML, NUP"
 language: English
 summary: Assignments with auto tests.
+vendor:
+  name: Aleksandr Avdiushenko
 programming_language: Python
 environment: unittest
 solutions_hidden: true
