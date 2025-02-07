@@ -1,0 +1,11 @@
+type: edu
+custom_name: Programming task
+files:
+  - name: invisible_main.py
+    visible: false
+  - name: __init__.py
+    visible: false
+  - name: main.py
+    visible: true
+  - name: tests/test.py
+    visible: false
