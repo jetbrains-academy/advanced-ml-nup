@@ -1,9 +1,13 @@
 type: marketplace
-title: JetBrains Academy Python course template
+title: "Advanced ML, NUP"
 language: English
-summary: Here you can put the course description. You can use HTML tags inside the
-  description.
+summary: Assignments with auto tests.
 programming_language: Python
 environment: unittest
+solutions_hidden: true
 content:
-  - course_section
+  - Unsupervised
+additional_files:
+  - name: LICENSE
+  - name: requirements.txt
+yaml_version: 2

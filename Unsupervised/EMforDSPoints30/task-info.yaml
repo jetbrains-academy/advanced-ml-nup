@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 828
+        length: 567
+        placeholder_text: "# TODO: Create mappings and calculate self.counts as 3D numpy array\
+      \ for amount of triplets (usr, obj, lbl)"
+      - offset: 1586
+        length: 145
+        placeholder_text: "# TODO: calculate self.pi and self.rho initial values"
+      - offset: 1847
+        length: 297
+        placeholder_text: "pass # TODO: update self.label_prob"
+      - offset: 2361
+        length: 380
+        placeholder_text: "pass # TODO: update self.pi"
+  - name: tests/test_task.py
+    visible: false
+  - name: __init__.py
+    visible: false
+  - name: tests/__init__.py
+    visible: false

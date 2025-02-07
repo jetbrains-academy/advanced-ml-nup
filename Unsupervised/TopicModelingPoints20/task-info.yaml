@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 1391
+        length: 796
+        placeholder_text: "# TODO: calculate Theta and Phi"
+      - offset: 2282
+        length: 362
+        placeholder_text: "pass # TODO: calculate perplexity"
+  - name: tests/test_task.py
+    visible: false
+  - name: __init__.py
+    visible: false
+  - name: tests/__init__.py
+    visible: false

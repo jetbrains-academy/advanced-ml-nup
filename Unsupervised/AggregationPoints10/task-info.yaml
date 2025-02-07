@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 343
+        length: 121
+        placeholder_text: "# TODO: implement majority_vote calculation"
+  - name: tests/test_task.py
+    visible: false
+  - name: __init__.py
+    visible: false
+  - name: tests/__init__.py
+    visible: false
+  - name: tlk2_crowd_labels.tsv
+    visible: true
+  - name: tlk2_golden_labels.tsv
+    visible: true
